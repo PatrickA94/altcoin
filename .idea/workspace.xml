@@ -2,8 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89d524d4-1b05-438f-85f6-1178fe2d8ae5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/CombinedData.pkl" afterPath="$PROJECT_DIR$/data/CombinedData.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/newfeat.pkl" afterPath="$PROJECT_DIR$/data/newfeat.pkl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMP.csv" afterPath="$PROJECT_DIR$/AMP.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ARDR.csv" afterPath="$PROJECT_DIR$/ARDR.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BCY.csv" afterPath="$PROJECT_DIR$/BCY.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BELA.csv" afterPath="$PROJECT_DIR$/BELA.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BLK.csv" afterPath="$PROJECT_DIR$/BLK.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BTCD.csv" afterPath="$PROJECT_DIR$/BTCD.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BTS.csv" afterPath="$PROJECT_DIR$/BTS.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CLAM.csv" afterPath="$PROJECT_DIR$/CLAM.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DASH.csv" afterPath="$PROJECT_DIR$/DASH.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DGB.csv" afterPath="$PROJECT_DIR$/DGB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOGE.csv" afterPath="$PROJECT_DIR$/DOGE.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data Integrity.ipynb" afterPath="$PROJECT_DIR$/Data Integrity.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EMC2.csv" afterPath="$PROJECT_DIR$/EMC2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ETC.csv" afterPath="$PROJECT_DIR$/ETC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ETH.csv" afterPath="$PROJECT_DIR$/ETH.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EXP.csv" afterPath="$PROJECT_DIR$/EXP.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FCT.csv" afterPath="$PROJECT_DIR$/FCT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FLDC.csv" afterPath="$PROJECT_DIR$/FLDC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FLO.csv" afterPath="$PROJECT_DIR$/FLO.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Feature Generation.ipynb" afterPath="$PROJECT_DIR$/Feature Generation.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GAME.csv" afterPath="$PROJECT_DIR$/GAME.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNO.csv" afterPath="$PROJECT_DIR$/GNO.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GNT.csv" afterPath="$PROJECT_DIR$/GNT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GRC.csv" afterPath="$PROJECT_DIR$/GRC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HUC.csv" afterPath="$PROJECT_DIR$/HUC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Initial Machine Learning Models.ipynb" afterPath="$PROJECT_DIR$/Initial Machine Learning Models.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LBC.csv" afterPath="$PROJECT_DIR$/LBC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LSK.csv" afterPath="$PROJECT_DIR$/LSK.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LTC.csv" afterPath="$PROJECT_DIR$/LTC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MAID.csv" afterPath="$PROJECT_DIR$/MAID.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ML Development.ipynb" afterPath="$PROJECT_DIR$/ML Development.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLP Network.ipynb" afterPath="$PROJECT_DIR$/MLP Network.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NAUT.csv" afterPath="$PROJECT_DIR$/NAUT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NAV.csv" afterPath="$PROJECT_DIR$/NAV.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NEOS.csv" afterPath="$PROJECT_DIR$/NEOS.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NMC.csv" afterPath="$PROJECT_DIR$/NMC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NOTE.csv" afterPath="$PROJECT_DIR$/NOTE.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NXC.csv" afterPath="$PROJECT_DIR$/NXC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NXT.csv" afterPath="$PROJECT_DIR$/NXT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OMNI.csv" afterPath="$PROJECT_DIR$/OMNI.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PASC.csv" afterPath="$PROJECT_DIR$/PASC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PINK.csv" afterPath="$PROJECT_DIR$/PINK.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/POT.csv" afterPath="$PROJECT_DIR$/POT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PPC.csv" afterPath="$PROJECT_DIR$/PPC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Poloniex Scraper.py" afterPath="$PROJECT_DIR$/Poloniex Scraper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RADS.csv" afterPath="$PROJECT_DIR$/RADS.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REP.csv" afterPath="$PROJECT_DIR$/REP.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SC.csv" afterPath="$PROJECT_DIR$/SC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SJCX.csv" afterPath="$PROJECT_DIR$/SJCX.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/STR.csv" afterPath="$PROJECT_DIR$/STR.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/STRAT.csv" afterPath="$PROJECT_DIR$/STRAT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SYS.csv" afterPath="$PROJECT_DIR$/SYS.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Simple feedforward NN # Didnt improve got 70ish.ipynb" afterPath="$PROJECT_DIR$/Simple feedforward NN # Didnt improve got 70ish.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VIA.csv" afterPath="$PROJECT_DIR$/VIA.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VRC.csv" afterPath="$PROJECT_DIR$/VRC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VTC.csv" afterPath="$PROJECT_DIR$/VTC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XBC.csv" afterPath="$PROJECT_DIR$/XBC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XCP.csv" afterPath="$PROJECT_DIR$/XCP.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XEM.csv" afterPath="$PROJECT_DIR$/XEM.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XMR.csv" afterPath="$PROJECT_DIR$/XMR.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XPM.csv" afterPath="$PROJECT_DIR$/XPM.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XRP.csv" afterPath="$PROJECT_DIR$/XRP.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZEC.csv" afterPath="$PROJECT_DIR$/ZEC.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +77,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Alt_Coin_Proj$Poloniex_Scraper.coverage" NAME="Poloniex Scraper Coverage Results" MODIFIED="1501249821379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Alt_Coin_Proj$Poloniex_Scraper.coverage" NAME="Poloniex Scraper Coverage Results" MODIFIED="1502391836545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Poloniex Scraper.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Poloniex Scraper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="135" lean-forward="false" selection-start-line="22" selection-start-column="135" selection-end-line="22" selection-end-column="135" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,10 +120,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="5" />
-    <option name="y" value="5" />
-    <option name="width" value="954" />
-    <option name="height" value="1051" />
+    <option name="width" value="1920" />
+    <option name="height" value="1059" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -215,6 +290,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -284,26 +365,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="5" width="954" height="1051" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1059" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947369" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.124217115" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885212" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -320,8 +401,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Poloniex Scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="330">
+          <caret line="22" column="135" lean-forward="false" selection-start-line="22" selection-start-column="135" selection-end-line="22" selection-end-column="135" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
